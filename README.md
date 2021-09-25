@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atul Verma
 - 👀 I’m interested in developing Web Application,UI design,front end developer,Backend Developer also Full Stack Developer.
-- 🌱 I’m currently learning Angular and React Native to Develop Android Application to give better to the world.
+- 🌱 I’m currently learning PHP and Vue  to Develop Application to give better to the world.
 - 💞️ I’m looking to collaborate on developing new projects that might inhance my tecnical skill towards my career.
 - 📫 You can eaisly reach to me by mail and contact number which is 
         Email:- atulverma4796@gmail.com
